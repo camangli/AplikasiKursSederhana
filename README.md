@@ -1,6 +1,6 @@
 # aplikasicurs
 
-A new Flutter application.
+Aplikasi Kurs Sederhana
 
 ## Getting Started
 
